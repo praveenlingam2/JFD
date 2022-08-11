@@ -1,0 +1,5 @@
+1.creating github account 
+2.download & install git
+3.using git to create delete and modify the files 
+4.atlast we push the files into github account using new repository
+             
