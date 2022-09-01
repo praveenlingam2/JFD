@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    background-color: #2874f0;
+    height: 85px;
+    width: auto;
+}
+.navbar-brand img{
+    position: relative;
+    left: 260px;
+    top: 20px;
+    text-decoration: none;
+    color: inherit;
+    border: none;
+    outline: none;
+    height: 50px;
+}
+.search a input{
+    position: relative;
+    left: 500px;
+    bottom: 40px;
+    height: 50px;
+    width: 400px;
+}
+.login{
+    position: relative;
+    left: 60%;
+    bottom: 80px;
+    background-color: #fff;
+    border: 1px solid #dbdbdb;
+    color: #2874f0;
+    cursor: pointer;
+    border-radius: 2px;
+    height: 32px;
+    padding: 5px 40px;
+}
+.Bas-btn{
+    position: relative;
+    left: 62%;
+    bottom: 80px;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    letter-spacing: .1px;
+    color: #fff;
+    background-color:#2874f0;
+    border: 1px solid #2874f0;
+    text-decoration: none;
+    font-size: large;
+}
+.Dropdown-menu{
+    position: relative;
+    left: 79%;
+    bottom: 108px;
+    border: #2874f0;
+    background-color:#2874f0;
+    color: #fff;
+    font-size: large;
+}
+.select-menu{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    letter-spacing: .1px;
+    background-color:#2874f0;
+    color: #fff;
+    border: #2874f0;
+
+}
+.cart-btn{
+    position: relative;
+    left: 85%;
+    bottom: 126px;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    letter-spacing: .1px;
+    color: #fff;;
+    background-color:#2874f0;
+    border: 1px solid #2874f0;
+    font-size: large;
+    text-decoration: none;
+}
+#search-button{
+    position: relative;
+    left: 28%;
+    bottom: 40px;
+    width: 45px;
+    height: 40px;
+    background-color:#fff;
+    border: 1px solid #fff;
+}
+
+
