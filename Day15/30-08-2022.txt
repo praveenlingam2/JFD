@@ -1,0 +1,28 @@
+Topics Covered
+Java Script
+  Variable
+  Constant
+  Primitive types
+  Dynamic Language
+  Nested Obj
+  Arrays
+  Function
+  Types of function
+  Conditional
+  Loops
+  Hoisting
+  Literals
+  Destructing
+  Spread
+  Rest
+  Closure
+  Default Paramters
+  Async
+  Map
+  Filter
+  Reduce
+  Ecma Script
+Completed Tasks
+  Created University Website using html and css
+Given tasks
+  Create a portfolio
