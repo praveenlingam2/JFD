@@ -1,0 +1,75 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.flipkart{
+    color:white;
+    background-color: #2874f0;
+    border: opx solid white;
+    padding: 0;
+    position: relative;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: top 5 px;
+    padding-left: 10%;
+    padding-right: 10%;
+    vertical-align: middle;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 25px;
+}
+nav ul li a{
+    color:white;
+    list-style: none;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.images{
+    width:100% ;
+    margin: auto;
+    text-align: center;
+    padding-top: 0%;
+}
+.image-col{
+    float: left;
+    width: 10%;
+    padding: 5px;
+}
+.layer{
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    transition: 0.5s;
+
+}
+.login{
+    background-color: #fff;
+    border: 1px solid #dbdbdb;
+    color: #2874f0;
+    cursor: pointer;
+    border-radius: 2px;
+    height: 32px;
+    padding: 5px 40px;
+}
+#lname{
+    height: 40px;
+    width: 280px;
+    align-content: center;
+}
+#search-button{
+    width: 45px;
+    height: 40px;
+    background-color:#fff;
+    border: 1px solid #fff;
+}
