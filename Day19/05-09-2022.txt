@@ -1,0 +1,6 @@
+Project Covered:
+-spring Boot security
+-API response
+-Exception handling
+Completed: 20%
+
